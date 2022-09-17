@@ -4,7 +4,7 @@
 	<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
 	<property name="com.jaspersoft.studio.data.sql.SQLQueryDesigner.sash.w1" value="269"/>
 	<property name="com.jaspersoft.studio.data.sql.SQLQueryDesigner.sash.w2" value="719"/>
-	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="EntrePiscoYNazcaDB"/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="sunatapiDB"/>
 	<style name="Title" fontName="DejaVu Sans" fontSize="26" isBold="true"/>
 	<style name="SubTitle" forecolor="#666666" fontName="DejaVu Sans" fontSize="18"/>
 	<style name="Column header" forecolor="#666666" fontName="DejaVu Sans" fontSize="12" isBold="true"/>

@@ -23,7 +23,7 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("EntrePisco y Nazca API")
+                .title("Sunat API")
                 .description("This application designed for integration propousal")
                 .build();
     }
